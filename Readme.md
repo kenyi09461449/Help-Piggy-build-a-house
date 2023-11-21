@@ -11,7 +11,7 @@ In the game, players can control the character 'I' to move on the map and have a
 
 #### o UML design diagram 
 
-![UML](..\CPPGame\assets\UML.jpg)
+![UML](https://raw.githubusercontent.com/kenyi09461449/Help-Piggy-build-a-house/main/UML.jpg)
 
 #### o Exception handling and test cases 
 
